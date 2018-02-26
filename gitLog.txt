@@ -1,3 +1,15 @@
+commit 40080c20b5a4412f53f1fdf5bfc2c5c68406320f
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Mon Feb 26 14:31:47 2018 -0700
+
+    Answered the questions and put them into a text file called 'Answers.txt', which contains the answers to the questions asked on canvas
+
+commit e803202f557bf6d0f511037fed304ecc7cdb350b
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Mon Feb 26 14:19:57 2018 -0700
+
+    Added comments for the classes and their methods, added the logFile.txt which prints out an error from the NegativeBalanceException, added the gitLog.txt
+
 commit 077e877ec4f6e6c56ea4054ae9d6c55f7e53968f
 Author: Joseph Woodard <jwoodard@mymail.mines.edu>
 Date:   Mon Feb 26 14:02:00 2018 -0700
