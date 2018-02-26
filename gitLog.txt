@@ -1,0 +1,23 @@
+commit 077e877ec4f6e6c56ea4054ae9d6c55f7e53968f
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Mon Feb 26 14:02:00 2018 -0700
+
+    Added comment for my name to show a friend how github and gitbash work
+
+commit d66883190d5d90fe0e75876eb43eb7f42f7932a3
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Mon Feb 26 10:42:52 2018 -0700
+
+    Completed the NegativeBalanceException system output to console, error messages now print. Need to print to file and add comments to complete assignment
+
+commit 529712b9053ea8b3ce7d1fb6d91fec3c9243b5a0
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Mon Feb 26 10:34:49 2018 -0700
+
+    Added all the base code to fill the requirements, but will not print the exceptions messages
+
+commit f46fcfc64135e022773854c14a6abe49df2e254c
+Author: saintofsteez <35740492+saintofsteez@users.noreply.github.com>
+Date:   Mon Feb 26 10:00:12 2018 -0700
+
+    Initial commit
