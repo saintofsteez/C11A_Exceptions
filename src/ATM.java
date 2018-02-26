@@ -1,4 +1,8 @@
-
+/**
+ * Joseph Woodard
+ * @author jwoodard
+ *
+ */
 
 public class ATM {
 	private BankAccount bank;
