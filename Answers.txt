@@ -1,0 +1,12 @@
+1) Why is BigDecimal better than double for representing dollar amounts?
+
+BigDecimal is better than double because BigDecimal is an exact way to represent numbers, while double can sometimes drop vaules when doing math
+with numbers on very separate magnitudes. Example 10,000 + .0001. If you use doubles the result may just drop the .0001. BigDecimal will not drop
+the .0001 when adding them together.
+
+2) List 3 good practices related to exception handling
+
+Know the difference between checked exceptions and unchecked exceptions and know when to use both in your code
+Do not created new custom exceptions if they don't provide useful information to the user
+Include your exceptions in your Javadoc summaries
+Log exceptions into the stack just once to debugging and troubleshooting them isn't confusing
