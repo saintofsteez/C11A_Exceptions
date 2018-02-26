@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class BankAccount {
 	private double balance;
@@ -9,7 +9,7 @@ public class BankAccount {
 	
 	public void withdraw (double ammount) throws NegativeBalanceException {
 		if (ammount > balance) {
-			NegativeBalanceException error = new NegativeBalanceException(balance - ammount);
+			throw new NegativeBalanceException(balance - ammount);
 		} else {
 			balance -= ammount;
 		}
@@ -17,7 +17,7 @@ public class BankAccount {
 	
 	public void quickWithdraw(double ammount) throws NegativeBalanceException {
 		if (ammount > balance) {
-			NegativeBalanceException error = new NegativeBalanceException();
+			throw new NegativeBalanceException();
 		} else {
 			balance -= ammount;
 		}

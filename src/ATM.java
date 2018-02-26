@@ -15,7 +15,6 @@ public class ATM {
 			System.out.println(e);
 			System.out.println(e.getMessage());
 		}
-		
 		try {
 			bank.quickWithdraw(600);
 		} catch (NegativeBalanceException e) {
